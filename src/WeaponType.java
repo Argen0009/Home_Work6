@@ -1,0 +1,3 @@
+public enum WeaponType {
+    COLDWEAPON,FIREARM,INCENDIARY_WEAPONS
+}
